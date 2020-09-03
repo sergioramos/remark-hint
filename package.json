@@ -1,0 +1,69 @@
+{
+  "name": "remark-hint",
+  "description": "Sprinkle hints/tips/warnings on your documents",
+  "version": "1.0.0",
+  "repository": "sergioramos/remark-hint",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "remark",
+    "remarkjs",
+    "remark-plugin",
+    "hint",
+    "tip",
+    "warning",
+    "error",
+    "html"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com",
+    "access": "public"
+  },
+  "scripts": {
+    "eslint": "eslint . --ext .js",
+    "fmt": "prettier --config .prettierrc --write '**/*'",
+    "test": "NODE_ENV=test c8 -r lcovonly -r html -r text ava --timeout 9999 --serial"
+  },
+  "dependencies": {
+    "unist-builder": "^2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "@mdx-js/mdx": "^1.6.16",
+    "@rollup/plugin-virtual": "^2.0.3",
+    "ava": "^3.12.1",
+    "c8": "^7.3.0",
+    "eslint": "^7.8.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-xo-space": "^0.25.0",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.3.0",
+    "mz": "^2.7.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.1.1",
+    "puppeteer": "^5.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "remark": "^12.0.1",
+    "remark-html": "^12.0.0",
+    "rollup": "^2.26.9",
+    "rollup-plugin-babel": "^4.4.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "prettier --config .prettierrc --write",
+      "git add"
+    ],
+    "*.*": [
+      "prettier --config .prettierrc --write",
+      "git add"
+    ]
+  }
+}
