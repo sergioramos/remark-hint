@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sergioramos/remark-hint/compare/v1.0.1...v1.0.2) (2020-09-14)
+
+### Chores
+
+- **deps-dev:** bump eslint from 7.8.1 to 7.9.0 ([c8ae23e](https://github.com/sergioramos/remark-hint/commit/c8ae23e88a6262e18c78a3746e05edf7425d361d))
+- **deps-dev:** bump puppeteer from 5.2.1 to 5.3.0 ([dc3aae9](https://github.com/sergioramos/remark-hint/commit/dc3aae90224bf68d37e5514a9a891c3a7482bacf))
+
 ## [1.0.1](https://github.com/sergioramos/remark-hint/compare/v1.0.0...v1.0.1) (2020-09-08)
 
 ### Chores
