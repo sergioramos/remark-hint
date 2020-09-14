@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/sergioramos/remark-hint/compare/v1.0.2...v1.0.3) (2020-09-14)
+
+### Chores
+
+- config to pkg.json ([ff0a087](https://github.com/sergioramos/remark-hint/commit/ff0a0874e88ebbc2e08fb0d3dc0f73163bd2e4b1))
+
 ## [1.0.2](https://github.com/sergioramos/remark-hint/compare/v1.0.1...v1.0.2) (2020-09-14)
 
 ### Chores
