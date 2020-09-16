@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/sergioramos/remark-hint/compare/v1.0.3...v1.0.4) (2020-09-16)
+
+### Chores
+
+- **deps-dev:** bump @mdx-js/mdx from 1.6.16 to 1.6.17 ([5574d57](https://github.com/sergioramos/remark-hint/commit/5574d57419c63fe888bbb8a06614d5f187c2305d))
+- **deps-dev:** bump prettier from 2.1.1 to 2.1.2 ([4e81b0d](https://github.com/sergioramos/remark-hint/commit/4e81b0d462c5c13e506e8b70d2099a459ec3c671))
+
 ## [1.0.3](https://github.com/sergioramos/remark-hint/compare/v1.0.2...v1.0.3) (2020-09-14)
 
 ### Chores
