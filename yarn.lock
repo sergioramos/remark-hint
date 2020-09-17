@@ -4650,7 +4650,7 @@ fsevents@~2.1.2:
     react-dom: ^16.13.1
     remark: ^12.0.1
     remark-html: ^12.0.0
-    rollup: ^2.26.10
+    rollup: ^2.27.0
     rollup-plugin-babel: ^4.4.0
     unist-builder: ^2.0.3
   languageName: unknown
@@ -4928,9 +4928,9 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.26.10":
-  version: 2.26.10
-  resolution: "rollup@npm:2.26.10"
+"rollup@npm:^2.27.0":
+  version: 2.27.0
+  resolution: "rollup@npm:2.27.0"
   dependencies:
     fsevents: ~2.1.2
   dependenciesMeta:
@@ -4938,7 +4938,7 @@ fsevents@~2.1.2:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 3/5eeb830002385dd774fa3c2beb7b6754d966dcd11e0c9ef3b34da2d979068aa3af79a0239d75d0fd899b83cb4ab177dc12888ab2c2de59b21cc613ddb02e60f7
+  checksum: 3/fefde079e4f84176e2b344a449e867e8e5c5292fa76f5f7834c7e987b5a9fc7d48f8707a6977fd663ddc59dee017ae6a80d575771c47878434cb005bca13e2cf
   languageName: node
   linkType: hard
 
