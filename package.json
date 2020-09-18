@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
-    "@mdx-js/mdx": "^1.6.17",
+    "@mdx-js/mdx": "^1.6.18",
     "@rollup/plugin-virtual": "^2.0.3",
     "ava": "^3.12.1",
     "c8": "^7.3.0",
