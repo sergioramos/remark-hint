@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/sergioramos/remark-hint/compare/v1.0.4...v1.0.5) (2020-09-24)
+
+### Chores
+
+- **deps-dev:** bump @mdx-js/mdx from 1.6.17 to 1.6.18 ([e5747ff](https://github.com/sergioramos/remark-hint/commit/e5747ff5590c1b40b1c43e053dfa48c2adb93e7a))
+- **deps-dev:** bump c8 from 7.3.0 to 7.3.1 ([066fa5f](https://github.com/sergioramos/remark-hint/commit/066fa5ff3b80b0e2532ca7fb03cd807966ef0175))
+- **deps-dev:** bump lint-staged from 10.3.0 to 10.4.0 ([a76d089](https://github.com/sergioramos/remark-hint/commit/a76d08993956a389c844545428a13dca7f7810c9))
+- **deps-dev:** bump puppeteer from 5.3.0 to 5.3.1 ([f03770a](https://github.com/sergioramos/remark-hint/commit/f03770a335b45993361b32657faa64d255e799db))
+
 ## [1.0.4](https://github.com/sergioramos/remark-hint/compare/v1.0.3...v1.0.4) (2020-09-16)
 
 ### Chores
