@@ -1,3 +1,21 @@
+## [1.0.6](https://github.com/sergioramos/remark-hint/compare/v1.0.5...v1.0.6) (2020-10-08)
+
+### Chores
+
+- updage dependencies ([ce4d1c5](https://github.com/sergioramos/remark-hint/commit/ce4d1c51227a1b1d0297643a0ecd95ee0099aaee))
+- **deps:** bump actions/setup-node from v2.1.1 to v2.1.2 ([12b4449](https://github.com/sergioramos/remark-hint/commit/12b4449906e01ea9318c6cd29b172cbb5fe4eb90))
+- **deps:** bump devmasx/coverage-check-action from v1.1.0 to v1.2.0 ([b040a32](https://github.com/sergioramos/remark-hint/commit/b040a326eeb28c6fdc5d0e2df4f15b38db9ddf0f))
+- **deps:** bump rlespinasse/github-slug-action from 2.1.0 to 2.1.1 ([fbf37d7](https://github.com/sergioramos/remark-hint/commit/fbf37d7668815ba19b7794c8e44af1a1cd7928d8))
+- **deps-dev:** bump ava from 3.12.1 to 3.13.0 ([5d3f7ee](https://github.com/sergioramos/remark-hint/commit/5d3f7eeb16e14467f56f2fac6f30f8cf32968a67))
+- **deps-dev:** bump eslint from 7.9.0 to 7.10.0 ([2c55104](https://github.com/sergioramos/remark-hint/commit/2c55104594228fbcdf3600f1b36a14fc548beb6e))
+- **deps-dev:** bump eslint-config-prettier from 6.11.0 to 6.12.0 ([981d894](https://github.com/sergioramos/remark-hint/commit/981d8941c4efec1d522a1099d1ba2ad2b428adac))
+- **deps-dev:** bump remark-html from 12.0.0 to 13.0.1 ([9d35298](https://github.com/sergioramos/remark-hint/commit/9d35298326bd7ef1dd8dd02cea445a66f8b71736))
+- **deps-dev:** bump rollup from 2.26.10 to 2.28.2 ([a84bf31](https://github.com/sergioramos/remark-hint/commit/a84bf31df6d2cf9c2632bc6fc441f93891d9cadd))
+
+### Continuous Integration
+
+- don't release deps-devs commits ([d0755f2](https://github.com/sergioramos/remark-hint/commit/d0755f21b2037bb2477e9fb6da78f02b6e1e2f46))
+
 ## [1.0.5](https://github.com/sergioramos/remark-hint/compare/v1.0.4...v1.0.5) (2020-09-24)
 
 ### Chores
