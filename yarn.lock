@@ -13,7 +13,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:7.11.6, @babel/core@npm:^7.11.5":
+"@babel/core@npm:7.11.6, @babel/core@npm:^7.11.6":
   version: 7.11.6
   resolution: "@babel/core@npm:7.11.6"
   dependencies:
@@ -1085,7 +1085,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"c8@npm:^7.3.1":
+"c8@npm:^7.3.2":
   version: 7.3.2
   resolution: "c8@npm:7.3.2"
   dependencies:
@@ -4643,12 +4643,12 @@ fsevents@~2.1.2:
   version: 0.0.0-use.local
   resolution: "remark-hint@workspace:."
   dependencies:
-    "@babel/core": ^7.11.5
+    "@babel/core": ^7.11.6
     "@babel/preset-react": ^7.10.4
     "@mdx-js/mdx": ^1.6.18
     "@rollup/plugin-virtual": ^2.0.3
     ava: ^3.13.0
-    c8: ^7.3.1
+    c8: ^7.3.2
     eslint: ^7.10.0
     eslint-config-prettier: ^6.12.0
     eslint-config-xo-space: ^0.25.0
@@ -4662,7 +4662,7 @@ fsevents@~2.1.2:
     react-dom: ^16.13.1
     remark: ^12.0.1
     remark-html: ^13.0.1
-    rollup: ^2.28.2
+    rollup: ^2.29.0
     rollup-plugin-babel: ^4.4.0
     unist-builder: ^2.0.3
   languageName: unknown
@@ -4932,7 +4932,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.28.2":
+"rollup@npm:^2.29.0":
   version: 2.29.0
   resolution: "rollup@npm:2.29.0"
   dependencies:
