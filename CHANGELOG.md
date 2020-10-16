@@ -1,3 +1,19 @@
+## [1.0.7](https://github.com/sergioramos/remark-hint/compare/v1.0.6...v1.0.7) (2020-10-16)
+
+### Chores
+
+- **deps-dev:** bump @babel/core from 7.11.6 to 7.12.0 ([d43b2fd](https://github.com/sergioramos/remark-hint/commit/d43b2fd33154537f80500930c8665b7f345669c9))
+- **deps-dev:** bump actions/cache from v2.1.1 to v2.1.2 ([c57cf15](https://github.com/sergioramos/remark-hint/commit/c57cf15946de86b10f08c40289c7aa7e78671b5c))
+- **deps-dev:** bump c8 from 7.3.2 to 7.3.3 ([35e2c68](https://github.com/sergioramos/remark-hint/commit/35e2c6818c3b3b53c04b81917027d31271f071f4))
+- **deps-dev:** bump eslint from 7.10.0 to 7.11.0 ([df32b16](https://github.com/sergioramos/remark-hint/commit/df32b1647176dda0dd981473b17508941422f50c))
+- **deps-dev:** bump react-dom from 16.13.1 to 16.14.0 ([78e34db](https://github.com/sergioramos/remark-hint/commit/78e34dbf8fb733ae45eff49b00428c6c475e870e))
+- **deps-dev:** bump rollup from 2.29.0 to 2.30.0 ([6e25775](https://github.com/sergioramos/remark-hint/commit/6e257757cf861d5ac18c8a77af6c106607adbb8a))
+- **deps-dev:** upgrade dependencies ([280c41e](https://github.com/sergioramos/remark-hint/commit/280c41ee9c17a622f2b58480c3017a69c5685b78))
+
+### Continuous Integration
+
+- don't release on deps-dev ([a1820bc](https://github.com/sergioramos/remark-hint/commit/a1820bc24883664f876722b5ca5f4ec83ef7ee40))
+
 ## [1.0.6](https://github.com/sergioramos/remark-hint/compare/v1.0.5...v1.0.6) (2020-10-08)
 
 ### Chores
