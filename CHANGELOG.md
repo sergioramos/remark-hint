@@ -1,3 +1,9 @@
+## [1.0.8](https://github.com/sergioramos/remark-hint/compare/v1.0.7...v1.0.8) (2020-10-16)
+
+### Chores
+
+- **deps-dev:** bump ridedott/release-me-action to v3.2.3 ([4aa9b45](https://github.com/sergioramos/remark-hint/commit/4aa9b45df0c7864a87e1dbc175e23e1129aabab4))
+
 ## [1.0.7](https://github.com/sergioramos/remark-hint/compare/v1.0.6...v1.0.7) (2020-10-16)
 
 ### Chores
