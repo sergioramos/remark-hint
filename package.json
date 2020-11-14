@@ -1,7 +1,7 @@
 {
   "name": "remark-hint",
   "description": "Sprinkle hints/tips/warnings on your documents",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "repository": "sergioramos/remark-hint",
   "main": "index.js",
   "keywords": [
