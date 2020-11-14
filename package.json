@@ -30,6 +30,8 @@
   "devDependencies": {
     "@babel/core": "^7.12.1",
     "@babel/preset-react": "^7.12.1",
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
     "@mdx-js/mdx": "^1.6.18",
     "@rollup/plugin-virtual": "^2.0.3",
     "ava": "^3.13.0",
@@ -52,7 +54,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
@@ -86,6 +89,16 @@
       "new-cap": 0,
       "camelcase": 0,
       "capitalized-comments": 0
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "body-max-line-length": [
+        0
+      ]
     }
   }
 }
