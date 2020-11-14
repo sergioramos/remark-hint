@@ -15,7 +15,7 @@ Say we have the following markdown:
 ```markdown
 !> Here is a tip.
 
-?> And a waring.
+?> And a warning.
 
 x> Or an error.
 ```
