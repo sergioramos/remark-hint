@@ -38,7 +38,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.12.1":
+"@babel/core@npm:^7.12.3":
   version: 7.12.3
   resolution: "@babel/core@npm:7.12.3"
   dependencies:
@@ -371,7 +371,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/preset-react@npm:^7.12.1":
+"@babel/preset-react@npm:^7.12.5":
   version: 7.12.5
   resolution: "@babel/preset-react@npm:7.12.5"
   dependencies:
@@ -647,7 +647,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mdx-js/mdx@npm:^1.6.18":
+"@mdx-js/mdx@npm:^1.6.21":
   version: 1.6.21
   resolution: "@mdx-js/mdx@npm:1.6.21"
   dependencies:
@@ -1331,7 +1331,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"c8@npm:^7.3.4":
+"c8@npm:^7.3.5":
   version: 7.3.5
   resolution: "c8@npm:7.3.5"
   dependencies:
@@ -2243,7 +2243,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^6.13.0":
+"eslint-config-prettier@npm:^6.15.0":
   version: 6.15.0
   resolution: "eslint-config-prettier@npm:6.15.0"
   dependencies:
@@ -2311,7 +2311,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^7.11.0":
+"eslint@npm:^7.13.0":
   version: 7.13.0
   resolution: "eslint@npm:7.13.0"
   dependencies:
@@ -3842,7 +3842,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^10.4.2":
+"lint-staged@npm:^10.5.1":
   version: 10.5.1
   resolution: "lint-staged@npm:10.5.1"
   dependencies:
@@ -5049,7 +5049,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"puppeteer@npm:^5.3.1":
+"puppeteer@npm:^5.4.1":
   version: 5.4.1
   resolution: "puppeteer@npm:5.4.1"
   dependencies:
@@ -5104,7 +5104,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^17.0.0":
+"react-dom@npm:^17.0.1":
   version: 17.0.1
   resolution: "react-dom@npm:17.0.1"
   dependencies:
@@ -5117,7 +5117,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react@npm:^17.0.0":
+"react@npm:^17.0.1":
   version: 17.0.1
   resolution: "react@npm:17.0.1"
   dependencies:
@@ -5249,28 +5249,28 @@ fsevents@~2.1.2:
   version: 0.0.0-use.local
   resolution: "remark-hint@workspace:."
   dependencies:
-    "@babel/core": ^7.12.1
-    "@babel/preset-react": ^7.12.1
+    "@babel/core": ^7.12.3
+    "@babel/preset-react": ^7.12.5
     "@commitlint/cli": ^11.0.0
     "@commitlint/config-conventional": ^11.0.0
-    "@mdx-js/mdx": ^1.6.18
+    "@mdx-js/mdx": ^1.6.21
     "@rollup/plugin-virtual": ^2.0.3
     ava: ^3.13.0
-    c8: ^7.3.4
-    eslint: ^7.11.0
-    eslint-config-prettier: ^6.13.0
+    c8: ^7.3.5
+    eslint: ^7.13.0
+    eslint-config-prettier: ^6.15.0
     eslint-config-xo-space: ^0.25.0
     husky: ^4.3.0
-    lint-staged: ^10.4.2
+    lint-staged: ^10.5.1
     mz: ^2.7.0
     npm-run-all: ^4.1.5
     prettier: ^2.1.2
-    puppeteer: ^5.3.1
-    react: ^17.0.0
-    react-dom: ^17.0.0
+    puppeteer: ^5.4.1
+    react: ^17.0.1
+    react-dom: ^17.0.1
     remark: ^13.0.0
     remark-html: ^13.0.1
-    rollup: ^2.32.0
+    rollup: ^2.33.1
     rollup-plugin-babel: ^4.4.0
     unist-builder: ^2.0.3
   languageName: unknown
@@ -5543,7 +5543,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.32.0":
+"rollup@npm:^2.33.1":
   version: 2.33.1
   resolution: "rollup@npm:2.33.1"
   dependencies:

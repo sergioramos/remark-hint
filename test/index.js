@@ -38,7 +38,9 @@ const compileJsx = async (src, options) => {
     treeshake: true,
     plugins: [
       virtual({
-        'main.js': "import React from 'react';\n".concat(code),
+        'main.js': "import React from 'react';\n"
+          .concat(`const mdx = React.createElement;\n`)
+          .concat(code),
       }),
       require('rollup-plugin-babel')({
         sourceType: 'module',
