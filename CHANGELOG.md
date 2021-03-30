@@ -1,3 +1,14 @@
+## [1.0.10](https://github.com/sergioramos/remark-hint/compare/v1.0.9...v1.0.10) (2021-03-30)
+
+### Chores
+
+- upgrade dependencies ([897b4e2](https://github.com/sergioramos/remark-hint/commit/897b4e23ba9a2c28ee5efbc3d464115c10e66a8c))
+- **deps:** bump actions/cache from v2.1.3 to v2.1.4 ([e7f608f](https://github.com/sergioramos/remark-hint/commit/e7f608f338ad0f8ebeb1ca4bdf5838b7a48b4513))
+- **deps:** bump actions/setup-node from v2.1.2 to v2.1.5 ([dab4be3](https://github.com/sergioramos/remark-hint/commit/dab4be3a43064b137e2270334b8cb54b503b99bd))
+- **deps:** bump ridedott/release-me-action from v3.2.5 to v3.5.11 ([381f3bd](https://github.com/sergioramos/remark-hint/commit/381f3bd797909bad29483d7d72108ed1e2ce2734))
+- **deps:** bump rlespinasse/github-slug-action from 3.1.0 to 3.4.0 ([48dd564](https://github.com/sergioramos/remark-hint/commit/48dd5644ea588ae7495747c3dd73240254384353))
+- **deps:** bump wagoid/commitlint-github-action from v2.1.1 to v3.0.6 ([35401f1](https://github.com/sergioramos/remark-hint/commit/35401f1bf5ed12e00e45096afd133f660a76fea2))
+
 ## [1.0.9](https://github.com/sergioramos/remark-hint/compare/v1.0.8...v1.0.9) (2020-11-14)
 
 ### Bug Fixes
